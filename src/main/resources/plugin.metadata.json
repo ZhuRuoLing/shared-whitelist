@@ -1,0 +1,11 @@
+{
+  "id": "shared-whitelist",
+  "version": "0.0.1",
+  "main": "net.zhuruoling.sw.Plugin",
+  "dependencies": [
+    {
+      "id": "omms-central",
+      "requirement": ">=0.14.0"
+    }
+  ]
+}
